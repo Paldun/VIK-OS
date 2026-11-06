@@ -43,13 +43,3 @@ A **VIK-OS** egy modern, PyQt6-alapú, kifejezetten a Budapesti Műszaki és Gaz
 
 ---
 
-## 🚀 Telepítés és Futtatás
-
-### Előfeltételek
-* Python 3.10 vagy újabb verzió
-* `pip` csomagkezelő
-
-### 1. Tároló klónozása
-```bash
-git clone [https://github.com/FELHASZNALONEVED/vik-os.git](https://github.com/FELHASZNALONEVED/vik-os.git)
-cd vik-os
